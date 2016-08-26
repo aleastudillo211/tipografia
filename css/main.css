@@ -1,0 +1,64 @@
+
+
+div {
+	width: 200px;
+	height:400px;
+	background-color: #9FF76F;
+	float:left;
+	box-shadow: 0px 2px 2px 0px;
+	margin : 10px;
+
+}
+
+h3{
+	font-family: 'Baloo Paaji', cursive;
+	text-align: center;
+}
+
+p{
+	padding: 10px;
+	font-family: 'Ubuntu', sans-serif;
+	text-align: center;
+
+}
+
+
+.icon-loading{
+	font-size: 100px;
+	padding: 10px;
+	
+	}
+
+.icon-copa {
+	font-size: 100px;
+	padding: 10px;
+
+}
+
+.icon-ojo{
+	font-size: 100px;
+	padding: 10px;
+
+
+}
+
+.icon-feliz{
+	font-size: 100px;
+	padding: 10px;
+
+}
+
+.icon-neutral{
+	font-size: 100px;
+	padding: 10px;
+
+}
+.box:hover {
+	background-color:#08F1C8;
+	width: 220px;
+	height:440px;
+	font-family: 'Baloo Paaji', cursive;
+	color:#FFFFFF;
+	transition: width 1s;
+
+}
